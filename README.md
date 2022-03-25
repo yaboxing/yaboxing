@@ -1,13 +1,11 @@
-### About me 👋
+### Working on:✨
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhexieren&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&theme=vue" />
 
-- 🔭 I’m currently working on smart home system with aiot.
-- 🌱 I’m currently learning Linux Kernel、docker and DevOps.
-- 👯 I’m looking to collaborate on BS framework for iot system.
-- 🤔 I’m looking for help with gitlab's DevOps and wireless system.
-- 💬 Ask me about IOT or RTOS and so on.
-- 📫 How to reach me: zhexieren#outlook.com
+- smart home system with aiot
+- RTOS、linux kernel and DevOps
+- BS framework and wireless system
+- 🔭😄🌱🤔💬⚡
 
 <!--
 **zhexieren/zhexieren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
